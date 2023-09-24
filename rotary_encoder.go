@@ -77,7 +77,6 @@ func (encoder *RotaryEncoder[T]) interrupt(pin machine.Pin) {
 		if next < 0 {
 			next = encoder.max
 		} else {
-			// min value of T
 			next = encoder.min
 		}
 	}
