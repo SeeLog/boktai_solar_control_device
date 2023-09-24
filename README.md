@@ -42,7 +42,7 @@ A TinyGo program to control the ultraviolet LED with DAC and control the solar s
 
 ## 3D Printing Case
 Print with 3D printer.
-- [boktai_led_case.stl](./boktai_led_case.stl)
+- [boktai_solar.stl](./boktai_solar.stl)
 
 This case is for holding UV LED.
 
