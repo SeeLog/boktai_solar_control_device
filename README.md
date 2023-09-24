@@ -77,3 +77,4 @@ tinygo flash -target xiao-rp2040 .
 # References
 - [Seeed XIAO RP2040 | TinyGo](https://tinygo.org/docs/reference/microcontrollers/xiao-rp2040/)
 - [DAコンバータの使い方 [Arduino]](https://www.petitmonte.com/robot/howto_da_converter.html)
+- [ELM - 接点入力と処理のコツ - ロータリー・エンコーダの使い方](http://elm-chan.org/docs/tec/te04.html)
