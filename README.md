@@ -1,6 +1,6 @@
 # boktai_led
 ## WARNING
-This program/hardware is using ultraviolet LED.
+This program/hardware uses ultraviolet LED.
 
 **DO NOT look at the LED directly.**
 
