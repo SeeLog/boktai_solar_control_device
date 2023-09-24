@@ -90,6 +90,9 @@ func (encoder *RotaryEncoder[T]) interrupt(pin machine.Pin) {
 	encoder.Value = next
 }
 
+/**
+ * Add two values and return the result and overflow flag
+ */
 func add[T Integer](a T, b T) (T, bool) {
 	sum := a + b
 	overflow := (a > 0 && b > 0 && sum < 0) || (a < 0 && b < 0 && sum > 0)
